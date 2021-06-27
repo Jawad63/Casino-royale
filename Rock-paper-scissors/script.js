@@ -1,6 +1,7 @@
 const random = document.getElementById("random-input");
 const user = document.getElementById("user-input");
 const results = document.getElementById("result");
+
 const possibilities = document.querySelectorAll("button");
 
 let randomInput;
